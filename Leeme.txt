@@ -1,0 +1,19 @@
+Punto 1
+	El código para la extracción de características se encuentran en los archivos:
+	* core.py (contiene el código principal)
+	* aux.py (contiene funciones auxiliares)
+
+Punto 2
+	Los conjuntos de entrenamiento y de testeo para cada modelo se encuentran en:
+	* modelo#/espM1.train (conjunto de entrenamiento modificado)
+	* modelo#/espM1.testb (conjunto de testeo modificado)
+	Donde "modelo#" puede ser cualquiera de las carpetas de modelos
+
+Punto 3
+	El archivo de texto con los resultados se llama "resultados.txt" y se encuentra en el directorio raíz
+	del proyecto.
+
+Vario
+	El proyecto fue inicialmente hecho con Julian García Rico,  pero en vista de que debían ser proyectos
+	aparte se reescribió la mayor parte del código, pero se comparten algunas estructuras de datos y
+	formato de visualización.
